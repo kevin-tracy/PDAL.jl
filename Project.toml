@@ -1,0 +1,4 @@
+name = "PDAL"
+uuid = "473c6842-c5da-4b62-8eec-dba5a939dce8"
+authors = ["Kevin Tracy <kevt.laser@gmail.com>"]
+version = "0.1.0"
